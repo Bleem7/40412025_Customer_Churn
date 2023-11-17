@@ -56,4 +56,3 @@ pip install streamlit pandas numpy tensorflow
 # How to Run the App#
 
 streamlit run customer_churn_app.py
-Feel free to customize the app based on your specific requirements and data.
